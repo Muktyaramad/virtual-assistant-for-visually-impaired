@@ -57,15 +57,7 @@ Tech- stacks used:
     
     5. Dialogflow
             
- Install Dependencies
- Download the credential for Google Vision API.
- Copy and paste the files at thr required position.
  
- ```
-    git clone https://github.com/mansi1710/DobaraMatPuchana
-    cd DobaraMatPuchana
-    pip install -r requirements.txt
- ```
  
  Run Code:
  
