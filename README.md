@@ -1,6 +1,6 @@
-# DobaraMatPuchana
 
-## **Jyoti** : Assistant for blind
+
+## **muktyar** : Assistant for blind
 
 A *voice assistant* specifically aiming towards aiding the visually imapired.
 
@@ -8,7 +8,7 @@ This system is used to help the visually impaired to have access to the most imp
 
 More specifically, the system is a chat bot having features solely dedicated towards development of the visually impaired.
 
-## Fetaures which make "Jyoti" unique:
+## Fetaures which make "muktyar" unique:
 
 The system consist of wearable headphones interfaced to Logitech webcam connected to Raspberry PI.
 
@@ -18,7 +18,7 @@ Key Features:
 
 1. **Description**:
   
-    1. Jyoti gives a single line description of the surrounding details
+    1. muktyar gives a single line description of the surrounding details
     2. *Road Conditions*: Jyoti gives the user an overview of the road conditions, which would further the visually impaired accordingly.
     3. Jyoti also specifically mentions if the user is at common places like classrooms, kitchens, bedrooms, etc
     4. Responds the number of people, objects, etc in the frame of the webcam.
